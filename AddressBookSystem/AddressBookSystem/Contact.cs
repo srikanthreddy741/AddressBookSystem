@@ -31,7 +31,7 @@ namespace AddressBook
             this.email = email;
         }
 
-    
+        /// <summary>
         /// To display the contact details.
         /// </summary>
         public void Display()
